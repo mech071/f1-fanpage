@@ -83,6 +83,7 @@
         font-size: 18px;
         text-align: center;
         padding: 0;
+        visibility: hidden;
     }
     .hero span {
         padding-left: 0;
