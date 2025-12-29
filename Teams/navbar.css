@@ -115,6 +115,7 @@
         grid-column: 1;
         grid-row: auto;
         order: -1;
+        align-self: start;
     }
     .right img {
         max-width: 150px;
